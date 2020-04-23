@@ -1,5 +1,8 @@
 # 8-Puzzle-Solver
 
+## Summary
+Implemented Djikstra's algorithm to find the shortest path to solve cost version of 8-puzzle game.
+
 ## Goal
 The goal of this assignment is to get some practice with shortest path algorithms.
 

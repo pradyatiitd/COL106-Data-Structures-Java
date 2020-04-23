@@ -1,5 +1,8 @@
 # Anagram-Generator-COL106
 
+## Summary
+Using hashing and AVL trees implemented anagram-generator which generates anagram of a given word from a large text collection.
+
 ## Goal
 The goal of this assignment is to get some practice with collision resolution and hash functions. On the side you will also learn basic string manipulations. It’s a fun assignment where the task is to find valid anagrams of a given input.
 
